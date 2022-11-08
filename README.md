@@ -1,5 +1,5 @@
 # 💫 Un poco sobre mi...
-👨‍💻 Soy Enzo y me encanta el mundo de la tecnología, siempre curioso, compañero y en constante aprendizaje.<br>🤩 Desarrollador Full-Stack en JavaScript.<br>👾 Responsable, autocritico y siempre buscando superarme.<br>🚀 Aprendo rápido y busco avanzar constantemente, ganar experiencia mediante nuevos desafíos, problemas y logros que se me presenten en el camino.
+👨‍💻 Soy Enzo y me encanta el mundo de la tecnología, siempre curioso, compañero y en constante aprendizaje.<br>🤩 Desarrollador Full-Stack en JavaScript.<br>👾 Responsable, autocritico y siempre buscando superarme.<br>🚀 Aprendo rápido y busco avanzar constantemente, ganar experiencia mediante nuevos desafíos, problemas y logros que se me presenten en el camino.<br>
 Contacto: enzo.ulloa.i@gmail.com<br><br>
 
 
